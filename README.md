@@ -1,6 +1,6 @@
 # PandaProject
 Test GitHub first repository
-done removed !
+<cleared>
 This Line is useless
 
 
